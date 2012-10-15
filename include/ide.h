@@ -1,1 +1,1 @@
-../../u-boot/include/ide.h
+../../kunlun-u-boot/include/ide.h

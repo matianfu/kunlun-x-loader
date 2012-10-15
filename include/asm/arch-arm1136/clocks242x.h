@@ -1,1 +1,1 @@
-../../../../u-boot/include/asm-arm/arch-arm1136/clocks242x.h
+../../../../kunlun-u-boot/include/asm-arm/arch-arm1136/clocks242x.h

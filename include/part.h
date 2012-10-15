@@ -1,1 +1,1 @@
-../../u-boot/include/part.h
+../../kunlun-u-boot/include/part.h

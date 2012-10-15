@@ -1,1 +1,1 @@
-../../../u-boot/cpu/omap3/mmc.c
+../../../kunlun-u-boot/cpu/omap3/mmc.c

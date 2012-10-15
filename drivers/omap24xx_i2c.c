@@ -1,1 +1,1 @@
-../../u-boot/drivers/omap24xx_i2c.c
+../../kunlun-u-boot/drivers/omap24xx_i2c.c

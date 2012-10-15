@@ -1,1 +1,1 @@
-../../../u-boot/include/asm-arm/memory.h
+../../../kunlun-u-boot/include/asm-arm/memory.h

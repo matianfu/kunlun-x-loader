@@ -1,1 +1,1 @@
-../../../../u-boot/include/asm-arm/arch-omap3/sys_info.h
+../../../../kunlun-u-boot/include/asm-arm/arch-omap3/sys_info.h

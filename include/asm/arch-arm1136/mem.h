@@ -1,1 +1,1 @@
-../../../../u-boot/include/asm-arm/arch-arm1136/mem.h
+../../../../kunlun-u-boot/include/asm-arm/arch-arm1136/mem.h

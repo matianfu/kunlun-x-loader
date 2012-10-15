@@ -1,1 +1,1 @@
-../../../u-boot/include/linux/time.h
+../../../kunlun-u-boot/include/linux/time.h

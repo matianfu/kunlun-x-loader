@@ -1,1 +1,1 @@
-../../u-boot/include/fat.h
+../../kunlun-u-boot/include/fat.h

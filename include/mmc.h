@@ -1,1 +1,1 @@
-../../u-boot/include/mmc.h
+../../kunlun-u-boot/include/mmc.h

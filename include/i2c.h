@@ -1,1 +1,1 @@
-../../u-boot/include/i2c.h
+../../kunlun-u-boot/include/i2c.h

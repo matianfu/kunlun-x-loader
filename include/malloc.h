@@ -1,1 +1,1 @@
-../../u-boot/include/malloc.h
+../../kunlun-u-boot/include/malloc.h

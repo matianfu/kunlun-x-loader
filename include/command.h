@@ -1,1 +1,1 @@
-../../u-boot/include/command.h
+../../kunlun-u-boot/include/command.h

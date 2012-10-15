@@ -1,1 +1,1 @@
-../../../../u-boot/include/asm-arm/arch-omap3/bits.h
+../../../../kunlun-u-boot/include/asm-arm/arch-omap3/bits.h

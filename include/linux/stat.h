@@ -1,1 +1,1 @@
-../../../u-boot/include/linux/stat.h
+../../../kunlun-u-boot/include/linux/stat.h

@@ -1,1 +1,1 @@
-../../../u-boot/include/asm-arm/byteorder.h
+../../../kunlun-u-boot/include/asm-arm/byteorder.h

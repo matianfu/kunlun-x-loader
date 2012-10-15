@@ -1,1 +1,1 @@
-../../u-boot/include/twl4030.h
+../../kunlun-u-boot/include/twl4030.h
